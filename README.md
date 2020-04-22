@@ -1,6 +1,9 @@
-## Counter example
+## Fetch bug example
 
-Intended as a demo of basic functionality.
+Fetch for non exisiting url (404) yields index page.
+* Hit the `Fetch good` button to fetch the existing url.
+* Hit the `Fetch bad` button to fetch non existing url.
+
 
 ---
 
